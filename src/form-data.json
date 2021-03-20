@@ -145,7 +145,7 @@
         },
         {
           "code": "sport",
-          "label": "<strong> 10. Activités physiques  </strong> <br> Déplacements brefs, dans la limite d'une heure quotidienne et dans un rayon maximal de cinq kilomètres autour du domicile, liés soit à l'activité physique individuelle des personnes, à l'exclusion de toute pratique sportive collective et de toute proximité avec d'autres personnes, soit à la promenade avec les seules personnes regroupées dans un même domicile <a class=\"footnote\" href=\"#footnote3\">[3]</a> ;"
+          "label": "<strong> 10. Activités physiques  </strong> <br> Déplacements brefs, dans un rayon maximal de dix kilomètres autour du domicile, liés soit à l'activité physique individuelle des personnes, à l'exclusion de toute pratique sportive collective et de toute proximité avec d'autres personnes, soit à la promenade avec les seules personnes regroupées dans un même domicile <a class=\"footnote\" href=\"#footnote3\">[3]</a> ;"
         },
         {
           "code": "rassemblement",
